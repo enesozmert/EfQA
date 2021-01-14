@@ -1,0 +1,12 @@
+Kasým 2020 proje baþlangýçý;
+Proje evreleri;
+1-Cümledeki imla ve yazým hatalarýný düzeltmek
+2-Cümle yapýsýný analaiz etmek öðelerine ayýrmak
+3-Cümle türünü belirlemek
+4-Kelimeleri morfolojik olarak ayýrarak köklerini veri tabanýna kaydetmek
+5-Soru cümlesi ise soruya göre öðelerin diziliþini tesbit etmek
+6-Sorudayu web de aratýp uygun bilgiyi cümleye aktarmak ve dönüþtürmek 
+7-Cümlenin positive/negative/nort yüzdesini hesaplamak
+8-Rastgele cümle kuran yapý oluþturmak
+9-Cümle yapýlarýný tanýmlamak
+10-Verilen deðere göre cümle oluþturak.

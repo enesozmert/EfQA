@@ -1,0 +1,9 @@
+C:\Users\en-es\source\repos\NEfyaz\bin\Debug\netcoreapp3.1\NEfyaz.deps.json
+C:\Users\en-es\source\repos\NEfyaz\bin\Debug\netcoreapp3.1\NEfyaz.dll
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.AssemblyInfoInputs.cache
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.AssemblyInfo.cs
+C:\Users\en-es\source\repos\NEfyaz\bin\Debug\netcoreapp3.1\NEfyaz.pdb
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.csproj.CoreCompileInputs.cache
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.dll
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.pdb
+C:\Users\en-es\source\repos\NEfyaz\obj\Debug\netcoreapp3.1\NEfyaz.csprojAssemblyReference.cache

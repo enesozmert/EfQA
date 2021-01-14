@@ -1,0 +1,15 @@
+Projeyi 3 alanda tek Çözüm Gezgininde toplandı açmak için Lütfen sadece NEfyaz yazan klasörde ki .sln uzantılı dökümanı açınız.
+Kütüphaneyi başka projede kullanmak istiyorsanız şu adımları izleyiniz:
+-Html5ElementList.txt projenize ekleyiniz
+-Resources klasörünüzü aynı yerde olmak üzere projenize ekleyiniz.
+Program sorulara cevap verir.
+Dikkat edilmesi gereken yerler en az 3 kelimeli cümle kurunuz.
+Bu bir demo sürümüdür.
+______________________________________________________________
+Kurulması gereken kütüphaneler:
+Nuget:
+Zemberek Nlp All
+HtmlAgilityPack
+NewtonSoft Json
+Normal Dll:
+NEfyaz
